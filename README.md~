@@ -28,7 +28,7 @@ The JSON object for each article Contains the following fields (notice that some
  - **`title`**: The title of the article. Can be empty.
  - **`author`**: The author of the article. Can be null.
  - **`content`**: The content of the article.
- - **`date_extracted`**: The timestamp of the date on which the article was extracted. It has the format `YYYY-MM-DD hh:mm:ss`. Notice that this field does not necessarily represent the date on which the article was authored (or made available online), however for articles stamped with a date of extraction after August 1, 2015, this field most probably represents the date of authoring.
+ - **`date_extracted`**: The timestamp of the date on which the article was extracted. It has the format `YYYY-MM-DD hh:mm:ss`. Notice that this field does not necessarily map to the date on which the article was authored (or made available online), however for articles stamped with a date of extraction after August 1, 2015, this field most probably represents the date of authoring.
 
 
 # License
