@@ -22,11 +22,11 @@ Article Format
 ----------
 Each article is represented as a JSON object stored in a file (file name format: newspaper-name-[some-id].json). All files are formatted in UTF-8.
 
-The JSON object for each article Contains the following fields (notice that some fileds can have empty values in case the crawler failed to extract them):
+The JSON object for each article contains the following fields (notice that some fileds can have empty values in case the crawler failed to extract them):
 
  - **`url`**: The full URL from which the article was extracted.
  - **`title`**: The title of the article. Can be empty.
- - **`author`**: The author of the article. Can be null.
+ - **`author`**: The author of the article. Can be empty.
  - **`content`**: The content of the article.
  - **`date_extracted`**: The timestamp of the date on which the article was extracted. It has the format `YYYY-MM-DD hh:mm:ss`. Notice that this field does not necessarily represent the date on which the article was authored (or made available online), however for articles stamped with a date of extraction after August 1, 2015, this field most probably represents the date of authoring.
 
