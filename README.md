@@ -1,6 +1,11 @@
 # Saudi Newspaper Corpora (SaudiNewsNet)
 This repo contains a set of Arabic newspaper articles alongwith metadata, extracted from various Saudi newspapers.
 
+Changelog
+---------
+
+ - Aug 06, 2015: First batch of articles uploaded (extracted within the period 21/07/2015 to 06/08/2015)
+
 Statistics
 ----------
 The dataset currently contains 22,524 articles, all compressed into zip files. The articles were extracted from the following Saudi newspapers (sorted by number of articles):
