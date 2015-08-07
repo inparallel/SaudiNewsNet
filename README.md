@@ -35,6 +35,7 @@ Article JSON Object Format
 The JSON object for each article contains the following fields (some fileds can have empty values in case the crawler failed to extract them):
 
  - **`source`**: A string identifief of the newspaper from which the article was extracted. It can have one of the following values:
+
     | String Identifier  | Newspaper |
     | ------------------ | --------- |
     | aawsat | [Al-Sharq Al-Awsat](aawsat.com/) |
@@ -49,7 +50,7 @@ The JSON object for each article contains the following fields (some fileds can 
     | okaz | [Okaz](http://www.okaz.com.sa/) |
     | sabq | [Sabq](http://sabq.org/) |
     | 3alyoum | [Ain Alyoum](http://3alyoum.com/) |
-    
+
  - **`url`**: The full URL from which the article was extracted.
  - **`date_extracted`**: The timestamp of the date on which the article was extracted. It has the format `YYYY-MM-DD hh:mm:ss`. Notice that this field does not necessarily represent the date on which the article was authored (or made available online), however for articles stamped with a date of extraction after August 1, 2015, this field most probably represents the date of authoring.
  - **`title`**: The title of the article. Can be empty.
