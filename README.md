@@ -1,28 +1,5 @@
 # Saudi Newspapers Corpus (SaudiNewsNet)
-This repo contains a set of Arabic newspaper articles alongwith metadata, extracted from various online Saudi newspapers.
-
-Changelog
----------
-
- - Aug 06, 2015: First batch of articles uploaded (extracted within the period 21/07/2015 to 06/08/2015).
- - Aug 07, 2015: Changed output format. Included a second batch (extracted in 07/08/2015).
-
-Statistics
-----------
-The dataset currently contains 24,669 Arabic articles (with a total number of 7,060,353 words), all represented as JSON objects compressed into ZIP files. The articles were extracted from the following Saudi newspapers (sorted by number of articles):
-
- - [Al-Riyadh](http://www.alriyadh.com/) (3,855 articles)
- - [Al-Jazirah](http://al-jazirah.com/) (2,892 articles)
- - [Al-Sharq Al-Awsat](aawsat.com/) (2,466 articles)
- - [Al-Yaum](http://alyaum.com/) (2,405 articles)
- - [Al-Eqtisadiya](http://aleqt.com/) (2,352 articles)
- - [Okaz](http://www.okaz.com.sa/) (2,250 articles)
- - [Al-Watan](http://alwatan.com.sa/) (1,800 articles)
- - [Al-Weeam](http://alweeam.com.sa/) (1,736 articles)
- - [Ain Alyoum](http://3alyoum.com/) (1,715 articles)
- - [Al-Madina](http://www.al-madina.com/) (1,676 articles)
- - [Sabq](http://sabq.org/) (1,392 articles)
- - [Arreyadi](http://www.arreyadi.com.sa/) (130 articles)
+This repo contains a set of 24,669 Arabic newspaper articles alongwith metadata, extracted from various online Saudi newspapers.
 
 File Structure
 --------------
@@ -57,6 +34,23 @@ The JSON object for each article contains the following fields (some fileds can 
  - **`author`**: The author of the article. Can be empty.
  - **`content`**: The content of the article.
 
+Statistics
+----------
+The dataset currently contains 24,669 Arabic articles (with a total number of **7,060,353 words**). The articles were extracted from the following Saudi newspapers (sorted by number of articles):
+
+ - [Al-Riyadh](http://www.alriyadh.com/) (3,855 articles)
+ - [Al-Jazirah](http://al-jazirah.com/) (2,892 articles)
+ - [Al-Sharq Al-Awsat](aawsat.com/) (2,466 articles)
+ - [Al-Yaum](http://alyaum.com/) (2,405 articles)
+ - [Al-Eqtisadiya](http://aleqt.com/) (2,352 articles)
+ - [Okaz](http://www.okaz.com.sa/) (2,250 articles)
+ - [Al-Watan](http://alwatan.com.sa/) (1,800 articles)
+ - [Al-Weeam](http://alweeam.com.sa/) (1,736 articles)
+ - [Ain Alyoum](http://3alyoum.com/) (1,715 articles)
+ - [Al-Madina](http://www.al-madina.com/) (1,676 articles)
+ - [Sabq](http://sabq.org/) (1,392 articles)
+ - [Arreyadi](http://www.arreyadi.com.sa/) (130 articles)
+
 Citing this Work
 ------------------
 
@@ -71,6 +65,12 @@ If you'd like to cite this work, you may use one of the following. You may also 
   year = 2015,
   url = "http://github.com/ParallelMazen/SaudiNewsNet"
   }`
+
+Changelog
+---------
+
+ - Aug 06, 2015: First batch of articles uploaded (extracted within the period 21/07/2015 to 06/08/2015).
+ - Aug 07, 2015: Changed output format. Included a second batch (extracted in 07/08/2015).
 
 # License
 ![Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)
