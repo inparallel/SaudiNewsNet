@@ -15,7 +15,7 @@ The JSON object for each article contains the following fields (some fileds can 
 
     | String Identifier  | Newspaper |
     | ------------------ | --------- |
-    | aawsat | [Al-Sharq Al-Awsat](aawsat.com/) |
+    | aawsat | [Al-Sharq Al-Awsat](http://aawsat.com/) |
     | aleqtisadiya | [Al-Eqtisadiya](http://aleqt.com/) |
     | aljazirah | [Al-Jazirah](http://al-jazirah.com/) |
     | almadina | [Al-Madina](http://www.al-madina.com/) |
@@ -40,7 +40,7 @@ The dataset currently contains 24,669 Arabic articles (with a total number of **
 
  - [Al-Riyadh](http://www.alriyadh.com/) (3,855 articles)
  - [Al-Jazirah](http://al-jazirah.com/) (2,892 articles)
- - [Al-Sharq Al-Awsat](aawsat.com/) (2,466 articles)
+ - [Al-Sharq Al-Awsat](http://aawsat.com/) (2,466 articles)
  - [Al-Yaum](http://alyaum.com/) (2,405 articles)
  - [Al-Eqtisadiya](http://aleqt.com/) (2,352 articles)
  - [Okaz](http://www.okaz.com.sa/) (2,250 articles)
