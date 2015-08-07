@@ -1,5 +1,5 @@
-# Saudi Newspaper Corpus (SaudiNewsNet)
-This repo contains a set of Arabic newspaper articles alongwith metadata, extracted from various Saudi newspapers.
+# Saudi Newspapers Corpus (SaudiNewsNet)
+This repo contains a set of Arabic newspapers articles alongwith metadata, extracted from various online Saudi newspapers.
 
 Changelog
 ---------
@@ -46,7 +46,7 @@ If you'd like to cite this work, you may use one of the following. You may also 
  - **BibTex**: 
   `@misc{hagrima2015,
   author = "M. Alhagri",
-  title = " Saudi Newspapers Arabic Corpus (SaudiNewsNet)",
+  title = "Saudi Newspapers Arabic Corpus (SaudiNewsNet)",
   year = 2015,
   url = "http://github.com/ParallelMazen/SaudiNewsNet"
   }`
