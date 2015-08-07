@@ -1,4 +1,4 @@
-# Saudi Newspaper Corpora (SaudiNewsNet)
+# Saudi Newspaper Corpus (SaudiNewsNet)
 This repo contains a set of Arabic newspaper articles alongwith metadata, extracted from various Saudi newspapers.
 
 Changelog
@@ -36,9 +36,25 @@ The JSON object for each article contains the following fields (notice that some
  - **`date_extracted`**: The timestamp of the date on which the article was extracted. It has the format `YYYY-MM-DD hh:mm:ss`. Notice that this field does not necessarily represent the date on which the article was authored (or made available online), however for articles stamped with a date of extraction after August 1, 2015, this field most probably represents the date of authoring.
 
 
+Citing this Work
+------------------
+
+If you'd like to cite this work, you may use one of the following. You may also contact me (mazen [dot] abdulaziz [at] gmail [dot] com) so that I can include your research in the "referring work" section.
+
+ - **APA**: Alhagri, M. A. (2015). Saudi Newspapers Arabic Corpus (SaudiNewsNet). http://github.com/ParallelMazen/SaudiNewsNet
+ - **MLA**: Alhagri, Mazen A. Saudi Newspapers Arabic Corpus (SaudiNewsNet). 2015. http://github.com/ParallelMazen/SaudiNewsNet
+ - **BibTex**: 
+  `@misc{hagrima2015,
+  author = "M. Alhagri",
+  title = " Saudi Newspapers Arabic Corpus (SaudiNewsNet)",
+  year = 2015,
+  url = "http://github.com/ParallelMazen/SaudiNewsNet"
+  }`
+
 # License
 ![Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)
 
 This work is licensed under a **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License**. The dataset is shared for the sole purpose of aiding open research in Arabic computing. The ownership of each article within the dataset belongs to the respective newspaper from which it was extracted; and the maintainer of the repository does not claim ownership of any of the content within it. If you think, by any means, that this dataset breaches any established copyrights; please contact the repository maintainer.
+
 
 
