@@ -66,6 +66,13 @@ If you'd like to cite this work, you may use one of the following. You may also 
   url = "http://github.com/ParallelMazen/SaudiNewsNet"
   }`
 
+Contacting the Maintainer
+-------------------------
+If you'd like to cite this work; have comments or thoughts to share; or just feel like chatting then feel free to contact me on either:
+
+ - [My Twitter account @UniqueLock](https://twitter.com/uniquelock)
+ - mazen [dot] abulaziz [at] gmail [dot] com
+
 Changelog
 ---------
 
