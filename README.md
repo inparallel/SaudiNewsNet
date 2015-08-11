@@ -79,12 +79,13 @@ If you'd like to cite this work; have comments or thoughts to share; or just fee
 Changelog
 ---------
  - Aug 06, 2015: 
- - First batch of articles uploaded (extracted within the period 21/07/2015 to 06/08/2015).
+   - First batch of articles uploaded (extracted within the period 21/07/2015 to 06/08/2015).
  - Aug 07, 2015:
- - Changed output format. Included a second batch (extracted in 07/08/2015).
+   - Changed output format.
+   - Included a second batch (extracted in 07/08/2015).
  - Aug 11, 2015:
- - Tracking 2 more newspapers: Saudi Press Agency and Arriyadiyah
- - Third batch of articles updloaded (timespan: 08/08/2015 to 11/08/2015)
+   - Tracking 2 more newspapers: Saudi Press Agency and Arriyadiyah.
+   - Third batch of articles updloaded (timespan: 08/08/2015 to 11/08/2015).
 
 # License
 ![Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)
