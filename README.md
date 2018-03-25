@@ -74,7 +74,7 @@ Contacting the Maintainer
 If you'd like to cite this work; have comments or thoughts to share; or just feel like chatting then feel free to contact me on either:
 
  - [My Twitter account @UniqueLock](https://twitter.com/uniquelock)
- - mazen [dot] abulaziz [at] gmail [dot] com
+ - mazen [dot] abdulaziz [at] gmail [dot] com
 
 Changelog
 ---------
@@ -91,7 +91,3 @@ Changelog
 ![Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)
 
 This work is licensed under a **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License**. The dataset is shared for the sole purpose of aiding open scientific research (in Arabic computing or linguistics), and can only be used for that purpose. The ownership of each article within the dataset belongs to the respective newspaper from which it was extracted; and the maintainer of the repository does not claim ownership of any of the content within it. If you think, by any means, that this dataset breaches any established copyrights; please contact the repository maintainer.
-
-
-
-
